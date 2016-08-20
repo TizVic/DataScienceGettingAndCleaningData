@@ -1,14 +1,13 @@
 ---
-title: Code Book for Coursera Getting and Cleaning Data Course Project
-output: github_document
+## Code Book for Coursera Getting and Cleaning Data Course Project
 ---
 
-## Introduction
-This code book is part of the final assignment of Getting and Cleaning Data Course Project and contains the description of variables used in the data set tidy.txt that is the output of `run_analysis.R` script. Refer to README.md for details.
+### Introduction
+This code book is part of the final assignment of Getting and Cleaning Data Course Project and contains the description of variables used in the data set `tidy.txt` that is the output of `run_analysis.R` script. Refer to README.md for details.
 
 All the variables, except SubjectId and Activity, are normalized in the range [-1,1] so they are unitless. 
 
-## Variables
+### Variables
 
 **SubjectId**
 
